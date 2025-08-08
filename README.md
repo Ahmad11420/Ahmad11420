@@ -24,7 +24,7 @@ I love transforming creative designs into smooth and functional mobile apps. My 
 - 🌱 I’m currently learning **Flutter APIs**
 - 👯 I’m looking to collaborate on **interesting projects**
 - 👨‍💻 My complete portfolio is available at [https://github.com/Ahmad11420](https://github.com/Ahmad11420)
-- 💬 Ask me about **Flutter, Dart, and Web Development**
+- 💬 Ask me about **Flutter, Dart **
 - 📫 Reach me at **contact2ahmadch@gmail.com**
 - ⚡ Fun fact: **I think I'm funny**
 
