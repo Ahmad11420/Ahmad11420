@@ -107,5 +107,22 @@ I love transforming creative designs into smooth and functional mobile apps. My 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BEPb/BEPb/main/src/header_.png" alt="Footer Banner" />
+
+  <!-- Banner -->
+  <img src="https://raw.githubusercontent.com/BEPb/BEPb/main/src/header_.png" alt="Footer Banner" width="100%" />
+
+  <!-- Icons -->
+  <br><br>
+  <img src="https://img.icons8.com/color/48/flutter.png" alt="Flutter" />
+  <img src="https://img.icons8.com/color/48/dart.png" alt="Dart" />
+  <img src="https://img.icons8.com/color/48/python.png" alt="Python" />
+  <img src="https://img.icons8.com/color/48/django.png" alt="Django" />
+  <img src="https://img.icons8.com/color/48/laptop--v1.png" alt="Laptop" />
+  <img src="https://img.icons8.com/color/48/coffee.png" alt="Coffee" />
+
+  <!-- Slogan -->
+  <br><br>
+  <b>☕ Code. Debug. Repeat. 🚀</b>
+  
 </div>
+
