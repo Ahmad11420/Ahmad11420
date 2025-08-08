@@ -73,19 +73,7 @@ I love transforming creative designs into smooth and functional mobile apps. My 
       <td align="center" width="100">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br>Python
       </td>
-      <td align="center" width="100">
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40" alt="Django"/><br>Django
-      </td>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/><br>JavaScript
-      </td>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/><br>HTML
-      </td>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/><br>CSS
-      </td>
-    </tr>
+     </tr>
   </table>
 </p>
 
