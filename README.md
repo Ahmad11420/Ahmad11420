@@ -1,16 +1,115 @@
-## Hi there 👋
+[![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://github.com/Ahmad11420)
 
-<!--
-**Ahmad11420/Ahmad11420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋+I'm+Ahmad+Bilal+" />
+</h1>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width="45%" height="95px">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coder GIF" width="380" height="280">
+
+### 👨‍🎓 About Me  
+**I'm Ahmad Bilal, a passionate Flutter Developer from Pakistan.**  
+I love transforming creative designs into smooth and functional mobile apps. My journey in tech revolves around constant learning and improving my skills in Flutter, Dart, and modern app development tools.
+
+---
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Ahmad11420&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmad11420" /> 
+</p>
+
+- 🔭 I’m currently working on **[Flutter Projects](https://github.com/Ahmad11420)**
+- 🌱 I’m currently learning **Flutter APIs**
+- 👯 I’m looking to collaborate on **interesting projects**
+- 👨‍💻 My complete portfolio is available at [https://github.com/Ahmad11420](https://github.com/Ahmad11420)
+- 💬 Ask me about **Flutter, Dart, and Web Development**
+- 📫 Reach me at **contact2ahmadch@gmail.com**
+- ⚡ Fun fact: **I think I'm funny**
+
+---
+
+<h3 align="left">🌐 Connect with me:</h3>
+<p align="left">
+  <a href="https://www.facebook.com/share/1JFEtvkAvN/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/ch.ahmad_bilal77?igsh=NHRkeHRsZDkxY3B3" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages and Tools
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40" alt="Dart"/><br>Dart
+      </td>
+      <td align="center" width="100">
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40" alt="Flutter"/><br>Flutter
+      </td>
+      <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="40" height="40" alt="Android Studio"/><br>Android Studio
+      </td>
+      <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" alt="VS Code"/><br>VS Code
+      </td>
+      <td align="center" width="100">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/><br>Git
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br>Python
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40" alt="Django"/><br>Django
+      </td>
+      <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/><br>JavaScript
+      </td>
+      <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/><br>HTML
+      </td>
+      <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/><br>CSS
+      </td>
+    </tr>
+  </table>
+</p>
+
+---
+
+### 📊 Top Languages Used
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad11420&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+<h3 align="center">GitHub Activity</h3>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmad11420&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true" alt="Ahmad Bilal's GitHub Activity" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/Ahmad11420">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmad11420&theme=transparent" />
+  </a>
+  <a href="https://github.com/Ahmad11420">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmad11420&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/Ahmad11420">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahmad11420&theme=transparent" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BEPb/BEPb/main/src/header_.png" alt="Footer Banner" />
+</div>
