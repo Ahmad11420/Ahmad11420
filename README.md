@@ -90,7 +90,6 @@ I love transforming creative designs into smooth and functional mobile apps. My 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmad11420&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true" alt="Ahmad Bilal's GitHub Activity" />
 </div>
-
 <div align="center">
   <a href="https://github.com/Ahmad11420">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmad11420&theme=transparent" />
@@ -102,6 +101,7 @@ I love transforming creative designs into smooth and functional mobile apps. My 
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahmad11420&theme=transparent" />
   </a>
 </div>
+
 
 ---
 
